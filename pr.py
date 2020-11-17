@@ -10,7 +10,7 @@ if n in (28, 29, 30, 31):
     elif n==31:
         print("ianuarie, martie, mai, iulie, august, octombrie, decembrie")
 else:
-    print("Trebuie sa introduci num 29 ori 29 ori 30 ori 31")
+    print("Trebuie sa introduci num 28 ori 29 ori 30 ori 31")
 #PROBLEMA 2
 p=1
 s=0
